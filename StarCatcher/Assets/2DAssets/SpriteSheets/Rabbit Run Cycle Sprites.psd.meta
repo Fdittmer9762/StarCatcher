@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: c94969030e94b884d9097b912a4a9d13
-timeCreated: 1476385541
+timeCreated: 1477015750
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -12,6 +12,11 @@ TextureImporter:
     21300010: Rabbit Run Cycle Sprites_5
     21300012: Rabbit Run Cycle Sprites_6
     21300014: Rabbit Run Cycle Sprites_7
+    21300016: Rabbit Run Cycle Sprites_8
+    21300018: Rabbit Run Cycle Sprites_9
+    21300020: Rabbit Run Cycle Sprites_10
+    21300022: Rabbit Run Cycle Sprites_11
+    21300024: Rabbit Run Cycle Sprites_12
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -67,7 +72,7 @@ TextureImporter:
         x: 0
         y: 0
         width: 600
-        height: 600
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -80,7 +85,7 @@ TextureImporter:
         x: 600
         y: 0
         width: 600
-        height: 600
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -93,7 +98,7 @@ TextureImporter:
         x: 1200
         y: 0
         width: 600
-        height: 600
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -106,7 +111,7 @@ TextureImporter:
         x: 1800
         y: 0
         width: 600
-        height: 600
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,7 +124,7 @@ TextureImporter:
         x: 2400
         y: 0
         width: 600
-        height: 600
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,7 +137,7 @@ TextureImporter:
         x: 3000
         y: 0
         width: 600
-        height: 600
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,7 +150,7 @@ TextureImporter:
         x: 3600
         y: 0
         width: 600
-        height: 600
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,7 +163,72 @@ TextureImporter:
         x: 4200
         y: 0
         width: 600
-        height: 600
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rabbit Run Cycle Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 600
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rabbit Run Cycle Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 600
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rabbit Run Cycle Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 600
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rabbit Run Cycle Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 0
+        width: 600
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rabbit Run Cycle Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 600
+        height: 900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

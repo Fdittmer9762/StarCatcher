@@ -4,6 +4,7 @@ using System.Collections;
 public class MovePlayer : MonoBehaviour {
 
     public Transform playerArt;
+    public Animator playerAnim;
     public Rigidbody player;
     public Vector3 tempPos;
     public float speed, speedDamper;
@@ -11,12 +12,14 @@ public class MovePlayer : MonoBehaviour {
     public float jumpForce, jumpCount, gravity;
 
 	void Start () {
+        playerAnim = GetComponentInChildren<Animator>();
         jumpForce *= 1000;
         StartCoroutine(PlayerMovement());
     }
 
     IEnumerator PlayerMovement() {
         Run(Input.GetAxis("Horizontal"));
+        playerAnim.SetFloat("RunSpeed", Mathf.Abs(Input.GetAxis("Horizontal")));
         Jump(); // **ToDo**: find a way around the if statement
         transform.Translate(tempPos);
         yield return null;
